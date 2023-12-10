@@ -5,6 +5,8 @@ A website dedicated to connecting patients with doctors for booking appointments
 ## Project Documentation
 [Google Drive Documentation](https://drive.google.com/drive/folders/1OplVP9fdibIKjqs-iTogJ6rynSMO5Gzw?usp=drive_link)
 
+[Google Drive Database Backup](https://drive.google.com/drive/folders/1b2hsGnQCbj9H5NL8Fm_WUjgLYlgbMyR7?usp=drive_link)
+
 ## How to Run the Project
 
 ### Steps
