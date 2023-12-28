@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Core\bin\Debug\net7.0\Vezeeta.Core.deps.json
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Core\bin\Debug\net7.0\Vezeeta.Core.runtimeconfig.json
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Core\bin\Debug\net7.0\Vezeeta.Core.dll
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Core\bin\Debug\net7.0\Vezeeta.Core.pdb
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Core\obj\Debug\net7.0\Vezeeta.Core.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Core\obj\Debug\net7.0\Vezeeta.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Core\obj\Debug\net7.0\Vezeeta.Core.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Core\obj\Debug\net7.0\Vezeeta.Core.AssemblyInfo.cs
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Core\obj\Debug\net7.0\Vezeeta.Core.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Core\obj\Debug\net7.0\Vezeeta.Core.dll
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Core\obj\Debug\net7.0\refint\Vezeeta.Core.dll
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Core\obj\Debug\net7.0\Vezeeta.Core.pdb
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Core\obj\Debug\net7.0\Vezeeta.Core.genruntimeconfig.cache
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Core\obj\Debug\net7.0\ref\Vezeeta.Core.dll

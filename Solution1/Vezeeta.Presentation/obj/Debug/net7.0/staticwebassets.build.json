@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "KwERJ0OnEmz5DHNJ5lcR8C+J4DKeUuw4/f6O5wiIseM=",
+  "Source": "Vezeeta.Presentation",
+  "BasePath": "_content/Vezeeta.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Vezeeta.Presentation\\wwwroot",
+      "Source": "Vezeeta.Presentation",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\VezeetaUpload\\Solution1\\Vezeeta.Presentation\\wwwroot\\",
+      "BasePath": "_content/Vezeeta.Presentation",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\DELL\\Desktop\\VezeetaUpload\\Solution1\\Vezeeta.Presentation\\wwwroot\\images\\405936b0-d742-4113-a313-f6237c53b5e5_WhatsApp Image 2023-04-19 at 03.02.00.jpeg",
+      "SourceId": "Vezeeta.Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\VezeetaUpload\\Solution1\\Vezeeta.Presentation\\wwwroot\\",
+      "BasePath": "_content/Vezeeta.Presentation",
+      "RelativePath": "images/405936b0-d742-4113-a313-f6237c53b5e5_WhatsApp Image 2023-04-19 at 03.02.00.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\405936b0-d742-4113-a313-f6237c53b5e5_WhatsApp Image 2023-04-19 at 03.02.00.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Desktop\\VezeetaUpload\\Solution1\\Vezeeta.Presentation\\wwwroot\\images\\6e78d4b6-2a73-4c8a-b214-02680d5513a4_1500x500.jpg",
+      "SourceId": "Vezeeta.Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\VezeetaUpload\\Solution1\\Vezeeta.Presentation\\wwwroot\\",
+      "BasePath": "_content/Vezeeta.Presentation",
+      "RelativePath": "images/6e78d4b6-2a73-4c8a-b214-02680d5513a4_1500x500.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\6e78d4b6-2a73-4c8a-b214-02680d5513a4_1500x500.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Desktop\\VezeetaUpload\\Solution1\\Vezeeta.Presentation\\wwwroot\\images\\953c2efa-0f35-458b-8ed7-d89dbca9584f_f80d22e1a337e1e7cd745c12a2b3426b.jpg",
+      "SourceId": "Vezeeta.Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\VezeetaUpload\\Solution1\\Vezeeta.Presentation\\wwwroot\\",
+      "BasePath": "_content/Vezeeta.Presentation",
+      "RelativePath": "images/953c2efa-0f35-458b-8ed7-d89dbca9584f_f80d22e1a337e1e7cd745c12a2b3426b.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\953c2efa-0f35-458b-8ed7-d89dbca9584f_f80d22e1a337e1e7cd745c12a2b3426b.jpg"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Application\obj\Debug\net7.0\Vezeeta.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Application\obj\Debug\net7.0\Vezeeta.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Application\obj\Debug\net7.0\Vezeeta.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Application\obj\Debug\net7.0\Vezeeta.Application.AssemblyInfo.cs
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Application\obj\Debug\net7.0\Vezeeta.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Application\bin\Debug\net7.0\Vezeeta.Application.deps.json
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Application\bin\Debug\net7.0\Vezeeta.Application.runtimeconfig.json
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Application\bin\Debug\net7.0\Vezeeta.Application.dll
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Application\bin\Debug\net7.0\Vezeeta.Application.pdb
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Application\bin\Debug\net7.0\Vezeeta.Core.dll
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Application\bin\Debug\net7.0\Vezeeta.Core.pdb
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Application\obj\Debug\net7.0\Vezeeta.Application.csproj.CopyComplete
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Application\obj\Debug\net7.0\Vezeeta.Application.dll
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Application\obj\Debug\net7.0\refint\Vezeeta.Application.dll
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Application\obj\Debug\net7.0\Vezeeta.Application.pdb
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Application\obj\Debug\net7.0\Vezeeta.Application.genruntimeconfig.cache
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Application\obj\Debug\net7.0\ref\Vezeeta.Application.dll

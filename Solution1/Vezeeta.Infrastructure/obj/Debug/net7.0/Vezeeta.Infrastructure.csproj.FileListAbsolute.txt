@@ -1,0 +1,17 @@
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Infrastructure\bin\Debug\net7.0\Vezeeta.Infrastructure.deps.json
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Infrastructure\bin\Debug\net7.0\Vezeeta.Infrastructure.runtimeconfig.json
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Infrastructure\bin\Debug\net7.0\Vezeeta.Infrastructure.dll
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Infrastructure\bin\Debug\net7.0\Vezeeta.Infrastructure.pdb
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Infrastructure\bin\Debug\net7.0\Vezeeta.Core.dll
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Infrastructure\bin\Debug\net7.0\Vezeeta.Core.pdb
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Infrastructure\obj\Debug\net7.0\Vezeeta.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Infrastructure\obj\Debug\net7.0\Vezeeta.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Infrastructure\obj\Debug\net7.0\Vezeeta.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Infrastructure\obj\Debug\net7.0\Vezeeta.Infrastructure.AssemblyInfo.cs
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Infrastructure\obj\Debug\net7.0\Vezeeta.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Infrastructure\obj\Debug\net7.0\Vezeeta.Infrastructure.csproj.CopyComplete
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Infrastructure\obj\Debug\net7.0\Vezeeta.Infrastructure.dll
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Infrastructure\obj\Debug\net7.0\refint\Vezeeta.Infrastructure.dll
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Infrastructure\obj\Debug\net7.0\Vezeeta.Infrastructure.pdb
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Infrastructure\obj\Debug\net7.0\Vezeeta.Infrastructure.genruntimeconfig.cache
+C:\Users\DELL\Desktop\VezeetaUpload\Solution1\Vezeeta.Infrastructure\obj\Debug\net7.0\ref\Vezeeta.Infrastructure.dll

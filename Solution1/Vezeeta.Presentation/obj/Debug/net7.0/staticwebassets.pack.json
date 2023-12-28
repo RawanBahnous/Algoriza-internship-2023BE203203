@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\VezeetaUpload\\Solution1\\Vezeeta.Presentation\\wwwroot\\images\\405936b0-d742-4113-a313-f6237c53b5e5_WhatsApp Image 2023-04-19 at 03.02.00.jpeg",
+      "PackagePath": "staticwebassets\\images\\405936b0-d742-4113-a313-f6237c53b5e5_WhatsApp Image 2023-04-19 at 03.02.00.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\VezeetaUpload\\Solution1\\Vezeeta.Presentation\\wwwroot\\images\\6e78d4b6-2a73-4c8a-b214-02680d5513a4_1500x500.jpg",
+      "PackagePath": "staticwebassets\\images\\6e78d4b6-2a73-4c8a-b214-02680d5513a4_1500x500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\VezeetaUpload\\Solution1\\Vezeeta.Presentation\\wwwroot\\images\\953c2efa-0f35-458b-8ed7-d89dbca9584f_f80d22e1a337e1e7cd745c12a2b3426b.jpg",
+      "PackagePath": "staticwebassets\\images\\953c2efa-0f35-458b-8ed7-d89dbca9584f_f80d22e1a337e1e7cd745c12a2b3426b.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Vezeeta.Presentation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Vezeeta.Presentation.props",
+      "PackagePath": "build\\Vezeeta.Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Vezeeta.Presentation.props",
+      "PackagePath": "buildMultiTargeting\\Vezeeta.Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Vezeeta.Presentation.props",
+      "PackagePath": "buildTransitive\\Vezeeta.Presentation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
