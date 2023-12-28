@@ -7,6 +7,9 @@ A website dedicated to connecting patients with doctors for booking appointments
 
 [Google Drive Database Backup](https://drive.google.com/drive/folders/1b2hsGnQCbj9H5NL8Fm_WUjgLYlgbMyR7?usp=drive_link)
 
+## Class Diagram
+![Class Diagram Image](veeezeete.png)
+
 ## How to Run the Project
 
 ### Steps
